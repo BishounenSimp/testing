@@ -45,7 +45,7 @@ jobs:
       run: mkdir -p target
 
     - name: Copy JAR files to target directory
-      run: cp -r */target/*.jar target/ #lets see if this works
+      run: cp -r */target/*.jar target/ #lets see if this works now
 
     - name: Test with Surefire reports
       run: |
