@@ -1,1 +1,1 @@
-Do now screw up uni assigments~ 💜
+Do not screw up uni assigments~ 💜
